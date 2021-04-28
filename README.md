@@ -15,4 +15,3 @@ Manually install, assuming you have a go environment set up, using:
 * Go to a directory
 * run `simplews`
 * Open a browser to http://localhost:8888
-/owner/name/releases/latest
