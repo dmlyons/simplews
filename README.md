@@ -5,7 +5,7 @@ A small tool to throw up a basic webserver in the current directory.
 https://groups.google.com/g/golang-nuts/c/D6yevo6VyyM
 
 ## Install
-Download a binary [here](/releases/latest).
+Download a binary [here](/dmlyons/simplews/releases/latest).
 
 Manually install, assuming you have a go environment set up, using:
 
@@ -15,3 +15,4 @@ Manually install, assuming you have a go environment set up, using:
 * Go to a directory
 * run `simplews`
 * Open a browser to http://localhost:8888
+/owner/name/releases/latest
